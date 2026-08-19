@@ -50,7 +50,7 @@ Almacena el historial consolidado de las órdenes confirmadas.
 
 ---
 
-## ⏰ Regla de Negocio: Restricción de Horario
+## ⏰ Regla de Negocio: Restricción de Horario - EXAMEN #1
 
 El sistema implementa una validación dinámica en el momento en que el usuario intenta **Confirmar un Pedido**:
 
